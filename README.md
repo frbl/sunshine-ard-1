@@ -1,5 +1,5 @@
 # Sunshine
-This utility will help killing the lockscreen when Apple Remote Desktop accidentally shut you out. 
+This utility will help killing the lockscreen when Apple Remote Desktop accidentally locked you out. 
 
 # How to compile
 First make sure xcode is installed. Then fireup a terminal and run the following commands:
